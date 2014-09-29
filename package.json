@@ -1,0 +1,14 @@
+{
+    "name": "csscomb-cut-media-queries",
+    "author": {
+        "name": "Vladimir Savenkov",
+        "email": "ivariable@gmail.com",
+        "url": "http://codemonkeys.ru"
+    },
+    "version": "1.0.0",
+    "dependencies": {
+        "csscomb-core": "~2.0.3"
+    },
+    "license": "MIT",
+    "main": "./csscomb-with-media-cut-example.js"
+}

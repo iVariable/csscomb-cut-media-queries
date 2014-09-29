@@ -90,7 +90,7 @@ module.exports = (function () {
 											return elem[0] == 'dimension';
 										});
 
-										if (ident) {
+										if (ident.length != 0) {
 											queries.push(ident[0][1] + ":" + dimensions[0][1][1] + dimensions[0][2][1]);
 										}
 									}
